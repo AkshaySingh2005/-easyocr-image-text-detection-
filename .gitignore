@@ -1,0 +1,32 @@
+# Byte-compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment folders
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and PyCharm folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Python cache files
+*.cache/
+*.egg-info/
+
+
+
+# Environment variables
+.env
